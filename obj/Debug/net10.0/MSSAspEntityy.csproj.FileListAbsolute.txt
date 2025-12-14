@@ -1,0 +1,3 @@
+C:\Users\hp\source\repos\MSSAspEntityy\obj\Debug\net10.0\MSSAspEntityy.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\MSSAspEntityy\obj\Debug\net10.0\MSSAspEntityy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\MSSAspEntityy\obj\Debug\net10.0\MSSAspEntityy.csproj.CoreCompileInputs.cache
